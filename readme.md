@@ -15,8 +15,8 @@ the module furthermore adds models for data handling and tags for data rendering
 
 ## Tags
 
-Render <option> items from static data countries:
-* Tag: <ion:staticdata:country_options/>  
+Render &lt;option&gt; items from static data countries:
+* Tag: &lt;ion:staticdata:country_options/&gt;  
 * Attributes: 
     * lang - Label language, can be: CS, DE, EN, ES, FR, IT, NL. Default: EN  
     * selected - alpha2 code of country to be selected, Default: guessed from browser-language
